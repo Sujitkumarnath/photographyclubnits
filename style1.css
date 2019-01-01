@@ -1,0 +1,18 @@
+body{
+	background-color: #90FA89;
+}
+
+.about{
+	border: 1px solid red;
+}
+.about p{
+	padding: 10px;
+	font-size: 20px;
+}
+.logo {
+	text-align: center;
+}
+.logo img{
+	display: block;
+	margin: auto;
+}
